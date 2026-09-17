@@ -13,3 +13,8 @@ captures/
 
 # Misc
 .DS_Store
+
+# Kotlin build cache
+.kotlin/
+tmp/
+*.log
